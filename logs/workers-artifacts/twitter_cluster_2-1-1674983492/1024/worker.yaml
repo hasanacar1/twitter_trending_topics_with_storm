@@ -1,0 +1,4 @@
+worker-id: b6c71fd9-d3b9-4fbe-9a16-c08ba51dceb3
+logs.users: []
+logs.groups: []
+topology.submitter.user: ubuntu
